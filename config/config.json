@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "My Drug-addicted Punk",
   "SYMBOL": "Punk",
-  "MAX_SUPPLY": 5000,
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 9000000000000000,
   "DISPLAY_COST": 9,
   "GAS_LIMIT": 285000,
