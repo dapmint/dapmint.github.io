@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3Fa6f7BbBfee69C5b66c6d50F3f10c1afa0fE126",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3Fa6f7BbBfee69C5b66c6d50F3f10c1afa0fE126",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "My Drug-addicted Punk",
+  "SYMBOL": "Punk",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 9000000000000000,
+  "DISPLAY_COST": 9,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/your-drug-addicted-punks",
+  "SHOW_BACKGROUND": false
+}
